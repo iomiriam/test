@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+transformers
+smart_open[gcs]
+func_timeout
